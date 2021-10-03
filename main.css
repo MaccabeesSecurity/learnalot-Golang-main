@@ -1,0 +1,68 @@
+.navigation
+{
+  position:absolute;
+  height:40px;
+  width:100%;
+  top:-5px;
+  left:0px;
+  border-style:solid;
+  background-color:grey;
+}
+.menu
+{
+  position:relative;
+  border-style:solid;
+  border-color:#001433;
+  height:60px;
+  width:100%;
+  top:0px;
+  left:0px;
+  background:#001f4d;
+  
+}
+.tablet1
+{
+  color:white;
+  position:relative;
+  top:34%;
+  margin-right:5%;
+  width:38px;
+  border-style:groove;
+  border-color:grey;
+}
+.tablet2
+{
+  color:white;
+  position:relative;
+  top:34%;
+  width:38%;
+  margin-right:5%;
+  border-style:groove;
+  border-color:grey;
+  }
+
+.tablet3
+{
+  color:white;
+  position:relative;
+  top:34%;
+  width:38%;
+  margin-left:5%;
+  margin-right:5%;
+  border-style:groove;
+  border-color:grey;
+}
+
+.body
+{
+background-color:#002080;
+  min-height:80px;
+}
+
+.contains
+{
+  height:80%;
+  border-style:solid;
+  width:98%;  
+  background:#001f4d;
+}
